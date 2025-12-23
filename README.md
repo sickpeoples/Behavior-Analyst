@@ -1,4 +1,4 @@
-Analisis Konversi Langganan Berdasarkan Tingkat Belanja Pelanggan
+£ Analisis Konversi Langganan Berdasarkan Tingkat Belanja Pelanggan
 
 Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis apakah tingkat belanja pelanggan berpengaruh terhadap keputusan pelanggan untuk berlangganan (subscription).
