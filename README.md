@@ -27,7 +27,7 @@ Dataset digunakan untuk melihat pola perilaku belanja dan hubungannya dengan kep
 
 ## Tools yang Digunakan
 
-SQL Server (SSMS)
+### SQL Server (SSMS)
 
 Digunakan untuk:
 
@@ -36,7 +36,7 @@ Digunakan untuk:
 - Menghitung jumlah pelanggan, jumlah pelanggan berlangganan, dan tingkat konversi
 - Mengimpor Dataset ke Power BI
 
-Power BI
+### Power BI
 
 Digunakan untuk:
 
